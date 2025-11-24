@@ -1,5 +1,3 @@
-# Flesh-score-calculator-
-Average flesh score
 <!DOCTYPE html>
 
 <html lang="en">
